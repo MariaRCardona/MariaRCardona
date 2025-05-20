@@ -1,5 +1,4 @@
-👋 ¡Hola! Soy María José Rivas Cardona. 
-Soy una profesional orientada a resultados con experiencia en **Automatización Robótica de Procesos (RPA)**, apasionada por optimizar flujos de trabajo e impulsar la **Transformación Digital**.
+👋 ¡Hola! Soy María José Rivas Cardona. Soy una profesional orientada a resultados con experiencia en **Automatización Robótica de Procesos (RPA)**, apasionada por optimizar flujos de trabajo e impulsar la **Transformación Digital**.
 
 Me entusiasman las siguientes áreas:
 🐍 **Python:** Explorando su versatilidad para el desarrollo backend y la automatización avanzada.
