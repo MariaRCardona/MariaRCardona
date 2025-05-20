@@ -25,4 +25,4 @@ Me entusiasman las siguientes áreas:
 
 ⚡ **Dato curioso:** ¡Como Leo ♌, la pasión y el liderazgo corren por mis venas!
 
-🌐 Conecta conmigo en <a href="https://www.linkedin.com/in/mariajoserivascardona/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"></a>
+**Conecta conmigo en** <a href="https://www.linkedin.com/in/mariajoserivascardona/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"></a>
